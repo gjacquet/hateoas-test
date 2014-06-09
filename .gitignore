@@ -1,0 +1,9 @@
+.idea
+.gradle
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+gradle*
+build
+
